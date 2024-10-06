@@ -1,0 +1,36 @@
+.max-w {
+    width: 100%;
+}
+
+.min-w {
+    width: 80vw;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.m-auto {
+    margin: auto;
+}

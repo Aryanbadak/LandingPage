@@ -1,0 +1,136 @@
+@media (max-width:900px) {
+    .flex {
+        flex-direction: column;
+    }
+
+    .navbar {
+        height: 300px;
+        transition: all 1s ease;
+    }
+
+    .left-nav {
+        margin-top: 30px;
+    }
+
+    .nav-list li {
+        padding: 15px 5px 15px 5px;
+    }
+
+    .space-between {
+        justify-content: space-evenly;
+    }
+
+    .burger {
+        display: inline-block;
+    }
+
+    .n-height-resp {
+        height: 70px;
+    }
+
+    .v-class-resp {
+        opacity: 0;
+    }
+
+    .box-1 {
+        height: 75vh;
+
+    }
+
+    .flex-resp {
+        flex-direction: column-reverse;
+    }
+
+    .img-box {
+        align-items: center;
+    }
+
+    .text-box h2 {
+        padding: 5px;
+        font-size: 1.2rem;
+    }
+
+    .para {
+        font-size: 0.8rem;
+    }
+
+    .right-box {
+        width: 50%;
+        margin: 0 0 25px 0;
+    }
+
+    .boxes {
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 15px;
+    }
+
+    .box {
+        width: 36vw;
+        margin-bottom: 40px;
+    }
+
+    .boxes-container h2 {
+        padding: 10px;
+        font-size: 1.2rem;
+    }
+
+    .deal {
+        font-size: 0.8rem;
+    }
+
+    .table {
+        margin-bottom: 80px;
+    }
+
+    .table th {
+        padding: 5px 20px 5px 20px;
+        font-size: 0.9rem;
+    }
+
+    .table td {
+        padding: 5px;
+        font-size: 0.7rem;
+    }
+
+    .sec-4-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .img-container {
+        flex-direction: column;
+        margin-bottom: 50px;
+    }
+
+    .input {
+        padding: 5px;
+        width: 100%;
+        font-size: 0.6rem;
+    }
+
+    .table-container h2 {
+        font-size: 1.2rem;
+    }
+
+    .sec4-left-box h3 {
+        font-size: 1.2rem;
+    }
+
+    .sec4-right-box h3 {
+        font-size: 1.2rem;
+    }
+
+    .sec4-left-box span {
+        font-size: 1rem;
+    }
+
+    .btn {
+        font-size: 11px;
+    }
+
+    .footer-box {
+        font-size: 0.6rem;
+    }
+}
